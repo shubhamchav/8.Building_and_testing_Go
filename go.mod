@@ -1,3 +1,3 @@
 module example.com/my_go_project
 
-go 1.22.1
+go 1.17
